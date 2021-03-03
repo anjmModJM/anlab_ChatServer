@@ -1,0 +1,22 @@
+{
+  "name": "anlab_chatserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://e6eebfde4b288a6c40e88dfbb3a81912f6c21196@github.com/anjmModJM/anlab_ChatServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjmModJM/anlab_ChatServer/issues"
+  },
+  "homepage": "https://github.com/anjmModJM/anlab_ChatServer#readme"
+}
